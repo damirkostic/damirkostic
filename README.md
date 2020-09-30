@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on PHP CMS system.
-- 🌱 I’m currently learning Angualr.
+- 🌱 I’m currently learning Angular..
 - 👯 I’m looking to collaborate on team projects.
 - 🤔 I’m looking for help with ideas for a project.
 - 💬 Ask me about web sites and all related on that topic.
