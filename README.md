@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kosticdamir@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirkostic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
