@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
+<p>
 - 🔭 I’m currently working on PHP CMS system.
 - 🌱 I’m currently learning Angular..
 - 👯 I’m looking to collaborate on team projects.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirkostic&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
