@@ -1,6 +1,4 @@
-<style>
-p { width: 40%; }
-</style>
+
 ### Hi there 👋
 
 <!--
@@ -9,7 +7,7 @@ p { width: 40%; }
 Here are some ideas to get you started:
 -->
 
-<p>
+
 - 🔭 I’m currently working on PHP CMS system. <br>
 - 🌱 I’m currently learning Angular..<br>
 - 👯 I’m looking to collaborate on team projects. <br>
@@ -18,7 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kosticdamir@outlook.com <br>
 - 😄 Pronouns: He/His <br>
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. <br> 
-</p>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirkostic&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirkostic&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats
