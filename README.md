@@ -7,6 +7,10 @@
 Here are some ideas to get you started:
 -->
 
+About me:
+ - 🎓 Bachelor of Engineering in Information Technology - College Polytechnic Zagrabiensis (Zagreb, Croatia).
+ - 📖 Currently studying:
+       Master degree - Specialist in Information Technology - College Polytechnic Zagrabiensis (Zagreb, Croatia).
 
 - 🔭 I’m currently working on PHP CMS system. 
 - 🌱 I’m currently learning Angular.
