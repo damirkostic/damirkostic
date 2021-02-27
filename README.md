@@ -12,6 +12,8 @@ About me:
  - 📖 Currently studying:
        Master degree - Specialist in Information Technology - College Polytechnic Zagrabiensis (Zagreb, Croatia).
 
+Facts:
+
 - 🔭 I’m currently working on PHP CMS system. 
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on team projects. 
